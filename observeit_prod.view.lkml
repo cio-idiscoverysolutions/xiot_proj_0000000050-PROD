@@ -65,7 +65,7 @@ view: observeit_prod {
     sql: ${TABLE}.Report_Name_ ;;
   }
 
-  dimension: row {
+  dimension: RecordID {
     type: string
     sql: ${TABLE}.Row ;;
   }
