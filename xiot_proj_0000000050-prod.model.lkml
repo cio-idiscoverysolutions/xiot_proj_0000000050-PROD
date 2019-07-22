@@ -21,3 +21,5 @@ explore: production_units {}
 explore: productions {}
 
 explore: sysdiagrams {}
+
+explore: vw_productions_overview{}
