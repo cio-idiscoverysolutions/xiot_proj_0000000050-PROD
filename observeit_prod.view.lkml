@@ -67,7 +67,7 @@ view: observeit_prod {
 
   dimension: RecordID {
     type: string
-    sql: ${TABLE}.Row ;;
+    sql: ${TABLE}.RecordID ;;
   }
 
   dimension: total {
