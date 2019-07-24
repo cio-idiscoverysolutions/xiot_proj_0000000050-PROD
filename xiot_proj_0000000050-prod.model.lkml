@@ -25,3 +25,5 @@ explore: sysdiagrams {}
 explore: vw_productions_overview{}
 
 explore: proddetails_observe_it {}
+
+explore: proddetails_kronos_punch_details {}
