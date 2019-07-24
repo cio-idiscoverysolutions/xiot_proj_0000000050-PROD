@@ -24,4 +24,4 @@ explore: sysdiagrams {}
 
 explore: vw_productions_overview{}
 
-explore: vw_production_details{}
+explore: proddetails_observe_it {}
