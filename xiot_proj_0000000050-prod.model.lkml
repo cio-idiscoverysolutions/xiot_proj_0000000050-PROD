@@ -27,3 +27,11 @@ explore: vw_productions_overview{}
 explore: proddetails_observe_it {}
 
 explore: proddetails_kronos_punch_details {}
+
+explore: proddetails_salesforce_cases_created {}
+
+explore: proddetails_salesforce_cases_modified {}
+
+explore: proddetails_salesforce_tasks_created {}
+
+explore: proddetails_salesforce_tasks_modified {}
