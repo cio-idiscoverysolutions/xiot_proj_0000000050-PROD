@@ -37,3 +37,5 @@ explore: proddetails_salesforce_tasks_created {}
 explore: proddetails_salesforce_tasks_modified {}
 
 explore: proddetails_kronos_timecard_audits {}
+
+explore: proddetails_softphone_agent_logout {}
