@@ -41,3 +41,5 @@ explore: proddetails_kronos_timecard_audits {}
 explore: proddetails_softphone_agent_logout {}
 
 explore: proddetails_harris_data_s2access {}
+
+explore: proddetails_salesforce_loginhistory {}
